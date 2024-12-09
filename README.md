@@ -1,1 +1,1 @@
-# Application_Git_Tut
+# Application_Git_Tut cloned in developer A story (update)
